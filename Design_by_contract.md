@@ -13,7 +13,7 @@ Cách tiếp cận DbC giả định tất cả các thành phần máy khách g
 
 ## Nội dung
 
-Tư tưởng của DbC là phép ẩn dụ về cách các phần tử của một hệ thống phần mềm cộng tác với nhau trên cơ sở _nghĩa vụ_ lẫn _lợi ích_ chung. Ẩn dụ xuất phát từ cuộc sống kinh doanh, nơi một "khách hàng" và "nhà cung cấp" đồng ý về "hợp đồng" xác định, ví dụ,: 
+Tư tưởng cốt lõi của DbC là phép ẩn dụ về cách các phần tử của một hệ thống phần mềm cộng tác với nhau trên cơ sở _nghĩa vụ_ lẫn _lợi ích_ chung. Ẩn dụ xuất phát từ cuộc sống kinh doanh, nơi một "khách hàng" và "nhà cung cấp" đồng ý về "hợp đồng" xác định, ví dụ,: 
 
 * Nhà cung cấp phải cung cấp một sản phẩm nhất định (nghĩa vụ) và có quyền mong đợi rằng khách hàng thanh toán phí (lợi ích) của mình.
 * Khách hàng phải trả phí (nghĩa vụ) và được quyền nhận sản phẩm (lợi ích).
